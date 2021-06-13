@@ -1,0 +1,114 @@
+body{
+	/*background-color: lightcoral;*/
+	background-image: url(../Images/prueba.png);
+}
+
+nav{
+	margin: 0 10%;
+}
+
+.menu li{
+	list-style: none;
+	color:darkblue;
+	display: inline;
+	background:skyblue;
+	margin: 10px 10px;
+	border-radius: 10px;
+	padding: 10px 10px 10px 10px;
+}
+
+#encabezado{
+	background-image: url(../Images/encabezado.jpg);
+	color: darkblue;
+	text-align: center;
+	border-radius: 10px;
+	width: 95%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+}
+
+#piePagina{
+	color: aqua;
+	text-align: center;
+	border-radius: 10px;
+	width: 78%;
+	margin: 30% 10%;
+	height: 80px;
+	background-image: url(../Images/pie.jpg);
+	clear: both;
+	padding: 15px 15px 15px 15px;
+}
+
+#section1{
+	float: left;
+	width: 38%;
+	height: 280px;
+	border-radius: 10px;
+	margin: 10px 10px;
+	background-image: url(../Images/fondoSeccion.jpg);
+	padding: 10px 10px 10px 10px;
+}
+
+#section2{
+	float: right;
+	width: 38%;
+	height: 280px;
+	border-radius: 10px;
+	margin: 10px 10px;
+	background-image: url(../Images/fondoSeccion.jpg);
+	padding: 10px 10px 10px 10px;
+}
+
+#section3{
+	width: 70%;
+	height: 280px;
+	border-radius: 10px;
+	margin: 10px 10px;
+	background-image: url(../Images/fondoSeccion.jpg);
+	padding: 10px 10px 10px 10px;
+}
+
+#section4{
+	width: 70%;
+	height: 430px;
+	border-radius: 10px;
+	margin: 10px 10px;
+	background-image: url(../Images/fondoSeccion.jpg);
+	padding: 10px 10px 10px 10px;
+}
+
+#section5{
+	width: 70%;
+	height: 570px;
+	border-radius: 10px;
+	margin: 10px 10px;
+	background-image: url(../Images/fondoSeccion.jpg);
+	padding: 10px 10px 10px 10px;
+}
+
+#section6{
+	width: 70%;
+	height: 700px;
+	border-radius: 10px;
+	margin: 10px 10px;
+	background-image: url(../Images/fondoSeccion.jpg);
+	padding: 10px 10px 10px 10px;
+}
+
+#section7{
+	width: 70%;
+	height: 650px;
+	border-radius: 10px;
+	margin: 10px 10px;
+	background-image: url(../Images/fondoSeccion.jpg);
+	padding: 10px 10px 10px 10px;
+}
+
+#section8{
+	width: 70%;
+	height: 700px;
+	border-radius: 10px;
+	margin: 10px 10px;
+	background-image: url(../Images/fondoSeccion.jpg);
+	padding: 10px 10px 10px 10px;
+}
